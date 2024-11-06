@@ -16,4 +16,4 @@ This script requires these environment variables:
 There's also a command line argument `--blog-id` which is a numeric identifier for the specific wordpress.com blog you're updating. I got my blog ID from [this post](https://wordpress.com/forums/topic/how-to-find-blog-id/) on the support forums.
 
 
-See this post for more details about exiting Wordpress.com.
+See [this post](https://dev.ahill.net/posts/moving-away-from-wpdotcom/) for more details about exiting Wordpress.com.
